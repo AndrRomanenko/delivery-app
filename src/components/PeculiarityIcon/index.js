@@ -1,0 +1,1 @@
+export { PeculiarityIcon } from './PeculiarityIcon';

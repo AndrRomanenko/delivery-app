@@ -1,0 +1,342 @@
+{
+  "general": {
+    "next": "Далее",
+    "logout": "Выйти",
+    "change": "Изменить",
+    "save": "Сохранить",
+    "select": "Выбрать",
+    "confirm": "Подтвердить",
+    "error": "Произошла непредвиденная ошибка",
+    "yourActiveOrder": "You have an active order!"
+  },
+  "navigation": {
+    "login": "Вход",
+    "findLocation": "Выберите заведение",
+    "startVisit": "Начать визит",
+    "orders": "Мои заказы",
+    "profile": "Профиль",
+    "list": "Список",
+    "qr": "QR сканнер"
+  },
+  "components": {
+    "countryPicker": {
+      "placeholder": "Выберите страну"
+    },
+    "callAWaiter": {
+      "coming": "Официант идет к Вам!",
+      "notActiveSession": "У клиента нет активной сессии.",
+      "called": "Вы уже вызывали официанта."
+    }
+  },
+  "info": {
+    "countryInputLabel": "Страна",
+    "phoneInputLabel": "Телефон",
+    "changePhoneNumber": "Изменить номер телефона",
+    "samePhoneSelected": "Выбран тот же номер телефона",
+    "termsAndConditions": {
+      "info": "Выбирая «Далее», вы соглашаетесь c",
+      "termsAndConditionsLabel": "Условиями и положениями",
+      "privacyPolicyLabel": "Политикой конфиденциальности",
+      "agreedLabel": "Мною прочитано",
+      "disclosureOfRepresentationLabel": "Раскрытие представительства"
+    }
+  },
+  "confirmation": {
+    "codeLabel": "Код подтверждения",
+    "checkSmsLabel": "Проверьте свои SMS-сообщения.",
+    "codeDestinationLabel": "Мы отправили код на",
+    "noCodeLabel": "Не получили код?",
+    "resendCode": "Отправить код еще раз",
+    "buttonLabel": "Далее",
+    "changePhoneNumber": "Изменить номер телефона",
+    "phoneChanged": "Номер телефона успешно изменен",
+    "invalidCode": "Ошибка. Неверний код."
+  },
+  "createProfile": {
+    "firstAndLastName": "Имя и фамилия",
+    "create": "Создать"
+  },
+  "profile": {
+    "userLabel": "Вы вошли как",
+    "languageLabel": "Язык:",
+    "allCardsDeleted": "Все карты удалены",
+    "developerMenu": "Меню разработчика",
+    "cancelVisit": "Завершить визит",
+    "cancelDeliverySession": "Отменить доставку",
+    "deletePaymentCards": "Удалить платежные карты"
+  },
+  "findLocationScreen": {
+    "placeholder": "Поиск"
+  },
+  "restaurantInfo": {
+    "features": "Особенности",
+    "peculiarities": {
+      "gluten_free": "Не содержит глютен",
+      "vegan_friendly": "Веганский",
+      "spicy": "Острий",
+      "contain_garlic": "Чеснок",
+      "lactose_free": "Не содержит лактозу"
+    }
+  },
+  "restaurantDetails": {
+    "notFound": "Ресторан не найден.",
+    "reviews": "Отзывы"
+  },
+  "sessionOrdersDetails": {
+    "pelaseAdd": "Пожалуйста, добавьте",
+    "supplements": "Добавки",
+    "total": "Всего",
+    "finishVisit": "Завершить визит",
+    "placeOrder": "Оформить заказ",
+    "payForOrders": "Оплатить заказы",
+    "leaveFeedback": "Оставить отзыв",
+    "supplementMyOrder": "Дополнить мой заказ",
+    "comment": "Комментарий",
+    "updated": "Заказ обновлен!",
+    "placed": "Заказ размещен!",
+    "placedError": "Ошибка размещения заказа",
+    "details": "Детали заказа"
+  },
+  "qrReader": {
+    "text": "Отсканируйте QR-код, чтобы начать посещение",
+    "wrongQRCodeScanned": "Отсканирован неверный QR-код.",
+    "wrongShopScanned": "Отсканирован неправильный магазин."
+  },
+  "restaurantScreen": {
+    "buttonWaiter": "Вызвать официанта",
+    "buttonCompleteVisit": "Завершить визит",
+    "buttonCurrentOrder": "Текущий заказ",
+    "buttonRestaurantInfo": "Информация о ресторане",
+    "buttonStartVisit": "Начать визит",
+    "buttonStartOrder": "Заказать",
+    "tables": "Cтол",
+    "reviews": "Отзывов",
+    "confirmationTitle": "Вы уверены?",
+    "confirmationDescription": "Выход из ресторана закроет текущую сессию посещения.",
+    "cancel": "Отменить",
+    "confirm": "Подтвердить"
+  },
+  "categoryMenu": {
+    "notFound": "Категория не найдена.",
+    "checkOrder": "Проверить заказ"
+  },
+  "profileScreen": {
+    "title": "Мой профиль",
+    "personalInformation": "Персональные данные",
+    "support": "Поддержка",
+    "savedAddresses": "Сохраненные адреса",
+    "termsConditions": "Пользовательское соглашение",
+    "settingsDev": "Настройки",
+    "logOut": "Выход"
+  },
+  "personalInfoScreen": {
+    "title": "Персональные данные",
+    "changePhoto": "Изменить фото",
+    "addPhoto": "Добавить фото",
+    "phoneNumber": "Номер телефона",
+    "marketing": "Я хочу получать маркетинговую информацию",
+    "invalidName": "Неправильное имя",
+    "invalidEmail": "Неправильный емейл",
+    "fullName": "Имя и Фамилия",
+    "email": "E-mail адрес",
+    "birthday": "Дата рождения",
+    "errorUpdating": "Ошибка обновления пользовательских данных"
+  },
+  "changePhoneScreen": {
+    "header": "Изменить номер телефона",
+    "countryInput": "Страна",
+    "phoneNumber": "Новый номер телефона",
+    "button": "Продолжить"
+  },
+  "confirmNewNumberScreen": {
+    "header": "Изменить номер телефона",
+    "codeLabel": "Код подтверждения",
+    "checkSmsLabel": "Проверьте свои SMS-сообщения.",
+    "codeDestinationLabel": "Мы отправили код на",
+    "noCodeLabel": "Не получили код?",
+    "resendCode": "Отправить код еще раз",
+    "buttonLabel": "Далее"
+  },
+  "productDetailsScreen": {
+    "supplements": "Добавки",
+    "addComment": "Добавить комментарий",
+    "addToOrder": "Добавить в заказ",
+    "default": "По умолчанию"
+  },
+  "ordersScreen": {
+    "total": "Итого:",
+    "created": "Создан",
+    "draft": "Черновик",
+    "inProgress": "Выполняется",
+    "waitPayment": "Оплата",
+    "allOrders": "Все заказы",
+    "in_house": "В заведении",
+    "delivery": "Доставка",
+    "take_away": "С собой",
+    "noOrdersTitle": "У вас нет информации о заказах",
+    "noOrdersInfo": "Информация появится здесь, как только вы начнете свой первый визит",
+    "findPlace": "Найдите место для ужина"
+  },
+  "paymentMethodScreen": {
+    "pageTitle": "Метод оплаты",
+    "selectMethod": "Выберите метод оплаты.",
+    "info": "Оплата будет изъята после ужина и подтверждения.",
+    "cashInfo": "Пожалуйста, дождитесь счета на оплату. Не вставайте из-за стола до оплаты.",
+    "cash": "Наличные",
+    "addCard": "Добавьте карту",
+    "paymentFailed": "Платеж не удался. Попробуйте еще раз."
+  },
+  "cardDetailsScreen": {
+    "pageTitle": "Введите данные карты",
+    "cardDetails": "Введите данные платежной карты.",
+    "info": "Мы не собираем и не храним данные ваших платежных карт. Вся информация будет удалена после окончания вашего визита.",
+    "cardNumber": "Номер карты",
+    "expiryDate": "Дата до",
+    "cvv": "CVV",
+    "cardOwner": "Имя владельца карты",
+    "cardAddedSuccess": "Карта успешно добавлена!"
+  },
+  "invoiceScreen": {
+    "pageTitle": "Счет-фактур",
+    "checkBill": "Проверьте счет перед оплатой",
+    "confirm": "Подтвердить платеж",
+    "order": "Заказ",
+    "tips": "Чаевые",
+    "total": "Всего"
+  },
+  "paymentItemsListScreen": {
+    "pageTitle": "Оплатить заказ",
+    "info": "Выберите пользователей для оплаты",
+    "myOrder": "Мой заказ",
+    "total": "Итого:",
+    "selectPayment": "Оплатить"
+  },
+  "tipsScreen": {
+    "pageTitle": "Чаевые",
+    "info": "Вы можете добавить чаевые своему официанту, если вам понравилось обслуживание",
+    "add": "Добавить",
+    "addAnother": "Добавить другую сумму",
+    "noThanks": "Нет, спасибо",
+    "tipsSum": "Сумма чаевых",
+    "tipsPercent": "Процент чаевых",
+    "addTips": "Добавить чаевые"
+  },
+  "addressListScreen": {
+    "pageTitle": "Сохраненные адреса",
+    "addAddress": "Добавить адрес",
+    "noAddresses": "Нет адресов",
+    "noAddressesInfo": "Похоже, вы еще не добавили адреса"
+  },
+  "addressInfoScreen": {
+    "pageTitleNew": "Добавить адрес",
+    "pageTitleEdit": "Изменить адрес",
+    "addAddress": "Добавить адрес",
+    "saveChanges": "Сохранить изменения",
+    "city": "Город",
+    "country": "Страна",
+    "addressLineFirst": "Адрес 1",
+    "addressLineSecond": "Адрес 2",
+    "zipCode": "Почтовый индекс",
+    "addressSaved": "Адрес сохранен!"
+  },
+  "deliveryDetailsScreen": {
+    "title": "Подробности доставки",
+    "typeOfOrder": "Тип заказа",
+    "delivery": "Доставка",
+    "take_away": "На вынос",
+    "selectAddress": "Выберите адрес",
+    "selectRestaurant": "Выберите ресторан",
+    "restaurantInfo": "Пожалуйста, выберите место, которое ближе к вам",
+    "addAddress": "Добавить новый адрес",
+    "selectTime": "Выберите время",
+    "asap": "Как можно сокрее (расчет времени недоступен)",
+    "particular": "Определенное время",
+    "continue": "Продолжить"
+  },
+  "modals": {
+    "feedbackModal": {
+      "titleRank": "Спасибо за посещение",
+      "titleMessage": "Спасибо за отзыв",
+      "infoRank": "Пожалуйста, оцените нас",
+      "infoMessage": "Вы также можете оставить комментарий",
+      "reviewPlacedMessage": "Ваш отзыв размещен!",
+      "buttonCancel": "Отмена",
+      "buttonSubmit": "Отправить"
+    },
+    "scanModal": {
+      "newGustTitle": "Новый гость",
+      "newGustInfo": "хочет присоединиться к столу. Примите запрос, если хотите пообедать вместе.",
+      "buttonCancel": "Отмена",
+      "buttonAccept": "Подтвердить",
+      "buttonStart": "Начать визит ",
+      "buttonTryAgain": "Повторить",
+      "confirmationTitle": "Не удалось подтвердить",
+      "confirmationInfo": "Первый гость не подтвердил",
+      "confirmationInfoPart2": "ваш запрос",
+      "loadingTitle": "Ожидание подтверждения",
+      "loadingInfo": "Пожалуйста, подождите, первый гость",
+      "loadingInfoPart2": "должен принять ваш запрос"
+    },
+    "visitModal": {
+      "loadingTitle": "Загрузка",
+      "loadingDescription": "Пожалуйста, подождите.",
+      "confirmationLoadingTitle": "Ожидание подтверждения.",
+      "confirmationLoadingDescription": "Пожалуйста, подождите, первый гость должен принять ваш запрос.",
+      "confirmationFailedTitle": "Ошибка подтверждения",
+      "confirmationFailedDescription": "Первый гость не удовлетворил ваш запрос.",
+      "cancel": "Отменить",
+      "tryAgain": "Попробуйте снова"
+    },
+    "newGuestModal": {
+      "title": "Новый гость",
+      "description": "хочет присоединиться к столу. Примите запрос, если хотите поужинать вместе.",
+      "cancel": "Отменить",
+      "accept": "Принять"
+    },
+    "deleteAddressModal": {
+      "title": "Удалить адрес",
+      "description": "Вы уверены, что хотите удалить этот адрес?",
+      "cancel": "Отмена",
+      "delete": "Удалить"
+    },
+    "paymentModal": {
+      "waiterTitle": "Пожалуйста, подождите",
+      "waiterDescription": "Официант скоро принесет счет...",
+      "pendingTitle": "Платеж обрабатывается",
+      "pendingDescription": "Пожалуйста, подождите пока платеж будет обработан.",
+      "errorTitle": "Ошибка",
+      "message.already_paid": "Заказ уже оплачен.",
+      "errorDescription": "Что-то пошло не так. Попробуйте еще раз.",
+      "processing": "Платеж обрабатывается...",
+      "proceedWith": "Платеж осуществляется через",
+      "orderPlaced": "Заказ размещен!"
+    },
+    "sessionTypeModal": {
+      "title": "Начать заказ",
+      "description": "Вы хотите поужинать в ресторане или сделать заказ на доставку и на вынос?",
+      "makeOrder": "Сделать заказ",
+      "inHouseDinner": "Ужин в заведении"
+    }
+  },
+  "permissions": {
+    "camera": {
+      "camera_unavailable": "Камера недоступна на устройстве",
+      "permission": "Разрешение не выполнено"
+    }
+  },
+  "clientSession": {
+    "inHouseSessionClosed": "Сеанс посещения закрыт",
+    "deliverySessionClosed": "Сеанс доставки закрыт",
+    "yourActiveOrder": "У вас есть активный заказ!"
+  },
+  "validation": {
+    "requiredField": "Это поле обязательно",
+    "minimumSymbols": "Минимум {{value}} символов",
+    "maximumSymbols": "Максимум {{value}} символов",
+    "invalidFormat": "Недействительный формат",
+    "wrongEmailFormat": "Неверный формат электронной почты",
+    "wrongCardNumberFormat": "Неверный формат номера карты",
+    "wrongCVVFormat": "Неверный формат CVV",
+    "wrongFormat": "Неверный формат"
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "general": {
+    "next": "Далі",
+    "logout": "Вийти",
+    "change": "Змінити",
+    "save": "Зберегти",
+    "select": "Обрати",
+    "confirm": "Підтвердити",
+    "error": "Сталася неочікувана помилка"
+  },
+  "navigation": {
+    "login": "Вхід",
+    "findLocation": "Оберіть заклад",
+    "startVisit": "Почати візит",
+    "orders": "Мої замовлення",
+    "profile": "Профіль",
+    "list": "Список",
+    "qr": "QR сканер"
+  },
+  "components": {
+    "countryPicker": {
+      "placeholder": "Оберіть країну"
+    },
+    "callAWaiter": {
+      "coming": "Офіціант йде до Вас!",
+      "notActiveSession": "Клієнт не має активної сесії.",
+      "called": "Ви вже викликали офіціанта."
+    }
+  },
+  "info": {
+    "countryInputLabel": "Країна",
+    "phoneInputLabel": "Телефон",
+    "changePhoneNumber": "Змінити номер телефону",
+    "samePhoneSelected": "Обрано той самий номер телефону",
+    "termsAndConditions": {
+      "info": "Обираючи «Далі», ви погоджуєтеся з",
+      "termsAndConditionsLabel": "Правилами та умовами",
+      "privacyPolicyLabel": "Політикою конфіденційності",
+      "agreedLabel": "Мною прочитано",
+      "disclosureOfRepresentationLabel": "Розкриття представництва"
+    }
+  },
+  "confirmation": {
+    "codeLabel": "Код підтвердження",
+    "checkSmsLabel": "Перевірте свої SMS-повідомлення.",
+    "codeDestinationLabel": "Ми надіслали код на адресу",
+    "noCodeLabel": "Не отримали код?",
+    "resendCode": "Надіслати код ще раз",
+    "buttonLabel": "Далі",
+    "changePhoneNumber": "Змінити номер телефону",
+    "phoneChanged": "Номер телефону успішно змінено",
+    "invalidCode": "Помилка. Невірний код."
+  },
+  "createProfile": {
+    "firstAndLastName": "Ім'я та прізвище",
+    "create": "Створити"
+  },
+  "profile": {
+    "userLabel": "Ви увійшли як",
+    "languageLabel": "Мова:",
+    "allCardsDeleted": "Усі картки видалено",
+    "developerMenu": "Меню розробника",
+    "cancelVisit": "Скасувати візит",
+    "cancelDeliverySession": "Скасувати доставку",
+    "deletePaymentCards": "Видалити платіжні картки"
+  },
+  "findLocationScreen": {
+    "placeholder": "Пошук"
+  },
+  "restaurantInfo": {
+    "features": "Особливості",
+    "peculiarities": {
+      "gluten_free": "Не містить глютен",
+      "vegan_friendly": "Веганський",
+      "spicy": "Гострий",
+      "contain_garlic": "Часник",
+      "lactose_free": "Не містить лактозу"
+    }
+  },
+  "restaurantDetails": {
+    "notFound": "Ресторан не знайдено.",
+    "reviews": "Відгуки"
+  },
+  "sessionOrdersDetails": {
+    "pelaseAdd": "Будь ласка, додайте",
+    "supplements": "Доповнення",
+    "total": "Всьго",
+    "finishVisit": "Завершити візит",
+    "placeOrder": "Оформити замовлення",
+    "payForOrders": "Оплатити замовлення",
+    "leaveFeedback": "Залишити відгук",
+    "supplementMyOrder": "Доповнити моє замовлення",
+    "comment": "Коментар",
+    "updated": "Замовлення оновлено!",
+    "placed": "Замовлення розміщено!",
+    "placedError": "Помилка розміщення замовлення",
+    "details": "Деталі замовлення"
+  },
+  "qrReader": {
+    "text": "Відскануйте QR-код, щоб почати візит",
+    "wrongQRCodeScanned": "Відскановано неправильний QR-код.",
+    "wrongShopScanned": "Відскановано неправильний магазин."
+  },
+  "restaurantScreen": {
+    "buttonWaiter": "Викликати офіціанта",
+    "buttonCompleteVisit": "Завершити візит",
+    "buttonCurrentOrder": "Поточне замовлення",
+    "buttonRestaurantInfo": "Інформація про ресторан",
+    "buttonStartVisit": "Розпочати візит",
+    "buttonStartOrder": "Замовити",
+    "tables": "Стіл",
+    "reviews": "Відгуків",
+    "confirmationTitle": "Вы впевнені?",
+    "confirmationDescription": "Вихід з ресторана завершить поточну сесію візиту.",
+    "cancel": "Скасувати",
+    "confirm": "Підтвердити"
+  },
+  "categoryMenu": {
+    "notFound": "Категорія не знайдена.",
+    "checkOrder": "Перевірити замовлення"
+  },
+  "profileScreen": {
+    "title": "Mій профіль",
+    "personalInformation": "Персональна інформація",
+    "support": "Підтримка",
+    "savedAddresses": "Збережені адреси",
+    "termsConditions": "Терміни і умови",
+    "settingsDev": "Налаштування",
+    "logOut": "Вихід"
+  },
+  "personalInfoScreen": {
+    "title": "Персональна інформація",
+    "changePhoto": "Змінити фото",
+    "addPhoto": " Додати фото",
+    "phoneNumber": "Номер телефону",
+    "marketing": "Я хочу отримувати маркетингову інформацію",
+    "invalidName": "Недійсне ім'я",
+    "invalidEmail": "Некоректный емейл",
+    "fullName": "Ім'я та прізвище",
+    "email": "E-mail адреса",
+    "birthday": "Дата народження",
+    "errorUpdating": "Помилка оновлення даних користувача"
+  },
+  "changePhoneScreen": {
+    "header": "Змінити номер телефону",
+    "countryInput": "Країна",
+    "phoneNumber": "Новий номер телефону",
+    "button": "Продовжити"
+  },
+  "confirmNewNumberScreen": {
+    "header": "Підтвердьте новий номер",
+    "codeLabel": "Код підтвердження",
+    "checkSmsLabel": "Перевірте свої SMS-повідомлення.",
+    "codeDestinationLabel": "Ми надіслали код на адресу",
+    "noCodeLabel": "Не отримали код?",
+    "resendCode": "Надіслати код ще раз",
+    "buttonLabel": "Далі"
+  },
+  "productDetailsScreen": {
+    "supplements": "Добавки",
+    "addComment": "Додати коментар",
+    "addToOrder": "Додати до замовлення",
+    "default": "За замовчуванням"
+  },
+  "ordersScreen": {
+    "total": "Всього:",
+    "draft": "Чернетка",
+    "created": "Створено",
+    "inProgress": "Виконується",
+    "waitPayment": "Оплата",
+    "allOrders": "Всі замовлення",
+    "in_house": "У закладі",
+    "delivery": "Доставка",
+    "take_away": "З собою",
+    "noOrdersTitle": "У вас немає інформації про замовлення",
+    "noOrdersInfo": "Інформація з’явиться тут, коли ви почнете свій перший візит",
+    "findPlace": "Знайти місце для вечері"
+  },
+  "paymentMethodScreen": {
+    "pageTitle": "Спосіб оплати",
+    "selectMethod": "Виберіть спосіб оплати.",
+    "info": "Оплата буде затримана після вечері та підтвердження.",
+    "cashInfo": "Будь ласка, дочекайтеся рахунку на оплату. Не виходьте з-за столика до оплати.",
+    "cash": "Готівка",
+    "addCard": "Додайте картку",
+    "paymentFailed": "Платіж не вдався. Будь ласка спробуйте ще раз."
+  },
+  "cardDetailsScreen": {
+    "pageTitle": "Введіть дані картки",
+    "cardDetails": "Введіть дані платіжної картки.",
+    "info": "Ми не збираємо та не зберігаємо дані ваших платіжних карток. Після завершення вашого візиту вся інформація буде видалена.",
+    "cardNumber": "Номер картки",
+    "expiryDate": "Придатна до",
+    "cvv": "CVV",
+    "cardOwner": "Ім'я власника картки",
+    "cardAddedSuccess": "Картка успішно додана!"
+  },
+  "invoiceScreen": {
+    "pageTitle": "Рахунок-фактура",
+    "checkBill": "Перевірте рахунок перед оплатою",
+    "confirm": "Підтвердити платіж",
+    "order": "Замовлення",
+    "tips": "Чайові",
+    "total": "Усього"
+  },
+  "paymentItemsListScreen": {
+    "pageTitle": "Оплатити замовлення",
+    "info": "Виберіть користувачів для оплати",
+    "myOrder": "Моє замовлення",
+    "total": "Усього:",
+    "selectPayment": "Оплатити"
+  },
+  "tipsScreen": {
+    "pageTitle": "Чайові",
+    "info": "Ви можете додати чайові для свого офіціанта, якщо вам сподобалося обслуговування",
+    "add": "Додати",
+    "addAnother": "Додайте іншу суму",
+    "noThanks": "Ні, дякую",
+    "tipsSum": "Сума чайових",
+    "tipsPercent": "Відсоток чайових",
+    "addTips": "Додати чайові"
+  },
+  "addressListScreen": {
+    "pageTitle": "Збережені адреси",
+    "addAddress": "Додати адресу",
+    "noAddresses": "Нема адрес",
+    "noAddressesInfo": "Здається, ви ще не додали адреси"
+  },
+  "addressInfoScreen": {
+    "pageTitleNew": "Додати адресу",
+    "pageTitleEdit": "Редагувати адресу",
+    "addAddress": "Додати адресу",
+    "saveChanges": "Зберегти зміни",
+    "city": "Місто",
+    "country": "Країна",
+    "addressLineFirst": "Адреса 1",
+    "addressLineSecond": "Адреса 2",
+    "zipCode": "Поштовий індекс",
+    "addressSaved": "Адресу збережено!"
+  },
+  "deliveryDetailsScreen": {
+    "title": "Деталі доставки",
+    "typeOfOrder": "Тип замовлення",
+    "delivery": "Доставка",
+    "take_away": "На винос",
+    "selectAddress": "Виберіть адресу",
+    "selectRestaurant": "Виберіть ресторан",
+    "restaurantInfo": "Виберіть місце, яке ближче до вас",
+    "addAddress": "Додайте нову адресу",
+    "selectTime": "Виберіть час",
+    "asap": "Якнайшвидше (розрахунки відсутні)",
+    "particular": "Конкретний час",
+    "continue": "Продовжити"
+  },
+  "modals": {
+    "feedbackModal": {
+      "titleRank": "Дякуємо, що завітали до",
+      "titleMessage": "Дякуємо за відгук",
+      "infoRank": "Будь ласка, оцініть нас",
+      "infoMessage": "Ви також можете залишити коментар",
+      "reviewPlacedMessage": "Ваш відгук розміщено!",
+      "buttonCancel": "Скасувати",
+      "buttonSubmit": "Надіслати"
+    },
+    "scanModal": {
+      "newGustTitle": "Новий гість",
+      "newGustInfo": "хоче приєднатися до столу. Прийміть запит, якщо хочете пообідати разом.",
+      "buttonCancel": "Скасувати",
+      "buttonAccept": "Підтвердити",
+      "buttonStart": "Почати візит",
+      "buttonTryAgain": "Повторити",
+      "confirmationTitle": "Не вдалося підтвердити",
+      "confirmationInfo": "Перший гість не підтвердив",
+      "confirmationInfoPart2": "ваш запит",
+      "loadingTitle": "Чекаємо підтвердження",
+      "loadingInfo": "Будь ласка, зачекайте, перший гість",
+      "loadingInfoPart2": "має прийняти ваш запит"
+    },
+    "visitModal": {
+      "loadingTitle": "Завантаження",
+      "loadingDescription": "Будь ласка, зачекайте.",
+      "confirmationLoadingTitle": "Очікування підтвердження.",
+      "confirmationLoadingDescription": "Будь ласка, зачекайте, перший гість має прийняти ваш запит.",
+      "confirmationFailedTitle": "Помилка підтвердження",
+      "confirmationFailedDescription": "Перший гість не задовольнив ваш запит.",
+      "cancel": "Скасувати",
+      "tryAgain": "Спробуйте ще раз"
+    },
+    "newGuestModal": {
+      "title": "Новий гість",
+      "description": "хоче приєднатися до столу. Прийміть запит, якщо хочете повечеряти разом.",
+      "cancel": "Скасувати",
+      "accept": "Прийняти"
+    },
+    "deleteAddressModal": {
+      "title": "Видалити адресу",
+      "description": "Ви впевнені, що хочете видалити цю адресу?",
+      "cancel": "Скасувати",
+      "delete": "Видалити"
+    },
+    "paymentModal": {
+      "waiterTitle": "Будь ласка, зачекайте",
+      "waiterDescription": "Офіціант незабаром принесе чек...",
+      "pendingTitle": "Платіж обробляється",
+      "pendingDescription": "Будь ласка, зачекайте доки платіж буде оброблений.",
+      "errorTitle": "Помилка",
+      "message.already_paid": "Замовлення вже сплачене.",
+      "errorDescription": "Щось пішло не так. Спробуйте ще раз.",
+      "processing": "Платіж обробляється...",
+      "proceedWith": "Платіж здійснюється через",
+      "orderPlaced": "Заказ розміщено!"
+    },
+    "sessionTypeModal": {
+      "title": "Почати замовлення",
+      "description": "Ви хочете повечеряти в ресторані чи зробити замовлення на доставку та на винос?",
+      "makeOrder": "Зробити замовлення",
+      "inHouseDinner": "Вечеря в закладі"
+    }
+  },
+  "permissions": {
+    "camera": {
+      "camera_unavailable": "Камера недоступна на пристрої",
+      "permission": "Дозвіл не виконано"
+    }
+  },
+  "clientSession": {
+    "inHouseSessionClosed": "Сеанс відвідування закрито",
+    "deliverySessionClosed": "Сеанс доставки закрито",
+    "yourActiveOrder": "У вас є активне замовлення!"
+  },
+  "validation": {
+    "requiredField": "Це поле обов'язкове",
+    "minimumSymbols": "Мінімум {{value}} символів",
+    "maximumSymbols": "Максимум {{value}} символів",
+    "invalidFormat": "Недійсний формат",
+    "wrongEmailFormat": "Неправильний формат електронної пошти",
+    "wrongCardNumberFormat": "Неправильний формат номера картки",
+    "wrongCVVFormat": "Неправильний формат CVV",
+    "wrongFormat": "Неправильний формат"
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "general": {
+    "next": "Next",
+    "logout": "Logout",
+    "change": "Change",
+    "save": "Save",
+    "select": "Select",
+    "confirm": "Confirm",
+    "error": "Unexpected error occurred"
+  },
+  "navigation": {
+    "login": "Log In",
+    "findLocation": "Find a Location",
+    "startVisit": "Start a visit",
+    "orders": "My Orders",
+    "profile": "Profile",
+    "list": "List",
+    "qr": "QR scanner"
+  },
+  "components": {
+    "countryPicker": {
+      "placeholder": "Select country"
+    },
+    "callAWaiter": {
+      "coming": "Waiter is coming!",
+      "notActiveSession": "Client does not have active session",
+      "called": "Waiter already called"
+    }
+  },
+  "info": {
+    "countryInputLabel": "Country",
+    "phoneInputLabel": "Phone",
+    "changePhoneNumber": "Change phone number",
+    "samePhoneSelected": "Same phone number selected",
+    "termsAndConditions": {
+      "info": "By selecting “Next”, you are agreeng to the",
+      "termsAndConditionsLabel": "Terms and Conditions",
+      "privacyPolicyLabel": "Privacy Policy",
+      "agreedLabel": "I have read",
+      "disclosureOfRepresentationLabel": "Disclosure Of Representation"
+    }
+  },
+  "confirmation": {
+    "codeLabel": "Confirmation code",
+    "checkSmsLabel": "Check your SMS messages.",
+    "codeDestinationLabel": "We`ve sent a code at",
+    "noCodeLabel": "Don`t you receive any code?",
+    "resendCode": "Resend code",
+    "buttonLabel": "Verify",
+    "changePhoneNumber": "Change phone number",
+    "phoneChanged": "Phone number changed successfully",
+    "invalidCode": "Error. Invalid code."
+  },
+  "createProfile": {
+    "firstAndLastName": "First and Last Name",
+    "create": "Create"
+  },
+  "profile": {
+    "userLabel": "Logged in as",
+    "languageLabel": "Language:",
+    "allCardsDeleted": "All cards deleted",
+    "developerMenu": "Developer menu",
+    "cancelVisit": "Cancel visit",
+    "cancelDeliverySession": "Cancel delivery session",
+    "deletePaymentCards": "Delete payment cards"
+  },
+  "findLocationScreen": {
+    "placeholder": "Search"
+  },
+  "restaurantInfo": {
+    "features": "Features",
+    "peculiarities": {
+      "gluten_free": "Gluten free",
+      "vegan_friendly": "Vegan",
+      "spicy": "Spicy",
+      "contain_garlic": "Garlic",
+      "lactose_free": "No dairy"
+    }
+  },
+  "restaurantDetails": {
+    "notFound": "Restaurant was not found.",
+    "reviews": "Reviews"
+  },
+  "sessionOrdersDetails": {
+    "pelaseAdd": "Please add",
+    "supplements": "Supplements",
+    "total": "Total",
+    "finishVisit": "Finish my visit",
+    "placeOrder": "Place the order",
+    "payForOrders": "Pay for orders",
+    "leaveFeedback": "Leave feedback",
+    "supplementMyOrder": "Supplement my order",
+    "comment": "Comment",
+    "updated": "Order updated!",
+    "placed": "Order is placed!",
+    "placedError": "Placing order error",
+    "details": "Order details"
+  },
+  "qrReader": {
+    "text": "Scan QR-code to start your visit",
+    "wrongQRCodeScanned": "Wrong QR code scanned.",
+    "wrongShopScanned": "Wrong shop scanned."
+  },
+  "restaurantScreen": {
+    "buttonWaiter": "Call a waiter",
+    "buttonCompleteVisit": "Complete visit",
+    "buttonCurrentOrder": "Current order",
+    "buttonRestaurantInfo": "Restaurant information",
+    "buttonStartVisit": "Start a visit",
+    "buttonStartOrder": "Start an order",
+    "tables": "Table",
+    "reviews": "Reviews",
+    "confirmationTitle": "Are you sure?",
+    "confirmationDescription": "Leaving the restaurant would close current visit session.",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  },
+  "categoryMenu": {
+    "notFound": "Category was not found.",
+    "checkOrder": "Check order"
+  },
+  "profileScreen": {
+    "title": "My Account",
+    "personalInformation": "Personal Information",
+    "support": "Support",
+    "savedAddresses": "Saved addresses",
+    "termsConditions": "Terms and Conditions",
+    "settingsDev": "Settings",
+    "logOut": "Log out"
+  },
+  "personalInfoScreen": {
+    "title": "Personal Information",
+    "changePhoto": "Change photo",
+    "addPhoto": "Add photo",
+    "phoneNumber": "Phone number",
+    "marketing": "I want to receive marketing information",
+    "invalidName": "Invalid name",
+    "invalidEmail": "Invalid email",
+    "fullName": "First and Lust Name",
+    "email": "E-mail addres",
+    "birthday": "Birthday",
+    "errorUpdating": "Error updating user data"
+  },
+  "changePhoneScreen": {
+    "header": "Change phone number",
+    "countryInput": "Country",
+    "phoneNumber": "New phone number",
+    "button": "Continue"
+  },
+  "confirmNewNumberScreen": {
+    "header": "Confirm new number",
+    "codeLabel": "Confirmation code",
+    "checkSmsLabel": "Check your SMS messages.",
+    "codeDestinationLabel": "We`ve sent a code at",
+    "noCodeLabel": "Don`t you receive any code?",
+    "resendCode": "Resend code",
+    "buttonLabel": "Verify"
+  },
+  "productDetailsScreen": {
+    "supplements": "Supplements",
+    "addComment": "Add a comment",
+    "addToOrder": "Add to order",
+    "default": "Default"
+  },
+  "ordersScreen": {
+    "total": "Total:",
+    "draft": "Draft",
+    "created": "Created",
+    "inProgress": "In progress",
+    "waitPayment": "Payment",
+    "allOrders": "All orders",
+    "in_house": "Dine in",
+    "delivery": "Delivery",
+    "take_away": "Take away",
+    "noOrdersTitle": "You have no orders information",
+    "noOrdersInfo": "The information will appear here once you will start your first visit",
+    "findPlace": "Find a place for dinner"
+  },
+  "paymentMethodScreen": {
+    "pageTitle": "Payment method",
+    "selectMethod": "Select payment method.",
+    "info": "The payment will be seized after the dinner and confirmation.",
+    "cashInfo": "Please wait for the payment bill. Don't leave the table before the payment.",
+    "cash": "Cash",
+    "addCard": "Add a card",
+    "paymentFailed": "Payment failed. Please try again."
+  },
+  "cardDetailsScreen": {
+    "pageTitle": "Enter card details",
+    "cardDetails": "Enter your payment card details.",
+    "info": "We are not collecting and storing your payment cards data. All the information will be deleted after the end of your visit.",
+    "cardNumber": "Card number",
+    "expiryDate": "Exp. date",
+    "cvv": "CVV",
+    "cardOwner": "Card owner's name",
+    "cardAddedSuccess": "Card added successfully!"
+  },
+  "invoiceScreen": {
+    "pageTitle": "Invoice",
+    "checkBill": "Please check the bill before payment",
+    "confirm": "Confirm payment",
+    "order": "Order",
+    "tips": "Tips",
+    "total": "Total"
+  },
+  "paymentItemsListScreen": {
+    "pageTitle": "Pay for order",
+    "info": "Select the users to pay for",
+    "myOrder": "My order",
+    "total": "Total:",
+    "selectPayment": "Select payment"
+  },
+  "tipsScreen": {
+    "pageTitle": "Set tips",
+    "info": "You can add tips for your waiter if you liked the service",
+    "add": "Add",
+    "addAnother": "Add another sum",
+    "noThanks": "No, thanks",
+    "tipsSum": "Tips sum",
+    "tipsPercent": "Tips percent",
+    "addTips": "Add tips"
+  },
+  "addressListScreen": {
+    "pageTitle": "Saved addresses",
+    "addAddress": "Add address",
+    "noAddresses": "No addresses",
+    "noAddressesInfo": "Seems like you have not added addresses yet"
+  },
+  "addressInfoScreen": {
+    "pageTitleNew": "Add address",
+    "pageTitleEdit": "Edit address",
+    "addAddress": "Add address",
+    "saveChanges": "Save changes",
+    "city": "City",
+    "country": "Country",
+    "addressLineFirst": "Address line 1",
+    "addressLineSecond": "Address line 2",
+    "zipCode": "Zip code",
+    "addressSaved": "Address saved!"
+  },
+  "deliveryDetailsScreen": {
+    "title": "Delivery details",
+    "typeOfOrder": "Type of order",
+    "delivery": "Delivery",
+    "take_away": "Take-away",
+    "selectAddress": "Select address",
+    "selectRestaurant": "Select restaurant",
+    "restaurantInfo": "Please select the place that is closer to you",
+    "addAddress": "Add new address",
+    "selectTime": "Select time",
+    "asap": "ASAP (No calculation avaliable)",
+    "particular": "Particular time",
+    "continue": "Continue"
+  },
+  "modals": {
+    "feedbackModal": {
+      "titleRank": "Thank you for visiting",
+      "titleMessage": "Thank you for feedback",
+      "infoRank": "Please, rate us",
+      "infoMessage": "You can also leave a comment",
+      "reviewPlacedMessage": "Your review was placed!",
+      "buttonCancel": "Cancel",
+      "buttonSubmit": "Submit"
+    },
+    "scanModal": {
+      "newGustTitle": "New guest",
+      "newGustInfo": "wants to join the table.Accept the request if you want to have a dinner together.",
+      "buttonCancel": "Cancel",
+      "buttonAccept": "Accept",
+      "buttonStart": "Start a visit",
+      "buttonTryAgain": "Try again",
+      "confirmationTitle": "Confirmation failed",
+      "confirmationInfo": "The first guest didnt't except",
+      "confirmationInfoPart2": "you request",
+      "loadingTitle": "Waiting for confirmation",
+      "loadingInfo": "Please wait, the first guest",
+      "loadingInfoPart2": "should accept your request"
+    },
+    "visitModal": {
+      "loadingTitle": "Loading",
+      "loadingDescription": "Please wait.",
+      "confirmationLoadingTitle": "Waiting for confirmation",
+      "confirmationLoadingDescription": "Please wait, the first guest should accept your request.",
+      "confirmationFailedTitle": "Confirmation failed",
+      "confirmationFailedDescription": "The first guest didn’t except your request.",
+      "cancel": "Cancel",
+      "tryAgain": "Try again"
+    },
+    "newGuestModal": {
+      "title": "New guest",
+      "description": " wants to join the table. Accept the request if you want to have a dinner together.",
+      "cancel": "Cancel",
+      "accept": "Accept"
+    },
+    "deleteAddressModal": {
+      "title": "Delete address",
+      "description": "Are you sure that you want to delete this address?",
+      "cancel": "Cancel",
+      "delete": "Delete"
+    },
+    "paymentModal": {
+      "waiterTitle": "Please wait",
+      "waiterDescription": "The waiter will bring the bill soon...",
+      "pendingTitle": "The payment is pending",
+      "pendingDescription": "Please wait until payment is complete",
+      "errorTitle": "Error",
+      "message.already_paid": "Order is already paid.",
+      "errorDescription": "Something went wrong. Please try again.",
+      "processing": "The payment is processing...",
+      "proceedWith": "The payment is being processed via",
+      "orderPlaced": "Order is placed!"
+    },
+    "sessionTypeModal": {
+      "title": "Start an order",
+      "description": "Do you want to have a dinner in the restaurant or to make the order for delivery & take-away?",
+      "makeOrder": "Make an order",
+      "inHouseDinner": "In-house dinner"
+    }
+  },
+  "permissions": {
+    "camera": {
+      "camera_unavailable": "Camera not available on device",
+      "permission": "Permission not satisfied"
+    }
+  },
+  "clientSession": {
+    "inHouseSessionClosed": "Visit session closed",
+    "deliverySessionClosed": "Delivery session closed",
+    "yourActiveOrder": "You have an active order!"
+  },
+  "validation": {
+    "requiredField": "This field is required",
+    "minimumSymbols": "Minimum {{value}} symbols",
+    "maximumSymbols": "Maximum {{value}} symbols",
+    "invalidFormat": "Invalid format",
+    "wrongEmailFormat": "Wrong Email format",
+    "wrongCardNumberFormat": "Wrong card number format",
+    "wrongCVVFormat": "Wrong CVV format",
+    "wrongFormat": "Wrong format"
+  }
+}

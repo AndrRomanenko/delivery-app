@@ -1,0 +1,252 @@
+{
+  "general": {
+    "next": "הַבָּא",
+    "logout": "להתנתק",
+    "change": "שינוי",
+    "save": "להציל",
+    "select": "בחר",
+    "confirm": "לְאַשֵׁר",
+    "error": "אירעה שגיאה לא צפויה"
+  },
+  "navigation": {
+    "login": "התחברות",
+    "findLocation": "למצוא מיקום",
+    "startVisit": "התחל את הביקור",
+    "orders": "ההזמנות שלי",
+    "profile": "פּרוֹפִיל",
+    "list": "רשימה",
+    "qr": "סורק QR"
+  },
+  "components": {
+    "countryPicker": {
+      "placeholder": "בחר מדינה"
+    }
+  },
+  "info": {
+    "countryInputLabel": "מדינה",
+    "phoneInputLabel": "טלפון",
+    "changePhoneNumber": "שנה מספר טלפון",
+    "samePhoneSelected": "נבחר אותו מספר טלפון",
+    "termsAndConditions": {
+      "info": "על ידי בחירת “צור“, אתה מסכים ל-",
+      "termsAndConditionsLabel": "תנאים",
+      "privacyPolicyLabel": "מדיניות פרטיות",
+      "agreedLabel": "קראתי",
+      "disclosureOfRepresentationLabel": "גילוי ייצוג"
+    }
+  },
+  "confirmation": {
+    "codeLabel": "קוד אישור",
+    "checkSmsLabel": "בדוק את הודעות ה-SMS שלך.",
+    "codeDestinationLabel": "שלחנו קוד ב",
+    "noCodeLabel": "אתה לא מקבל שום קוד?",
+    "resendCode": "שלח קוד שוב",
+    "buttonLabel": "תאשר",
+    "changePhoneNumber": "שנה מספר טלפון",
+    "phoneChanged": "מספר הטלפון השתנה בהצלחה"
+  },
+  "createProfile": {},
+  "profile": {
+    "userLabel": "מחובר כ",
+    "languageLabel": "שפות:"
+  },
+  "findLocationScreen": {
+    "placeholder": "לחפש"
+  },
+  "restaurantInfo": {
+    "features": "תכונות"
+  },
+  "restaurantDetails": {
+    "notFound": "המסעדה לא נמצאה.",
+    "reviews": "ביקורות"
+  },
+  "sessionOrdersDetails": {
+    "pelaseAdd": "תוסיף בבקשה",
+    "supplements": "תוספי תזונה",
+    "total": "סך הכל",
+    "finishVisit": "סיים את הביקור שלי",
+    "placeOrder": "בצע את ההזמנה",
+    "payForOrders": "שלם עבור הזמנות",
+    "supplementMyOrder": "השלים את ההזמנה שלי"
+  },
+  "qrReader": {
+    "text": "סרוק קוד QR כדי להתחיל את הביקור שלך"
+  },
+  "restaurantScreen": {
+    "buttonWaiter": "תקרא למלצר",
+    "buttonCompleteVisit": "סיום הביקור",
+    "buttonCurrentOrder": "הסדר הנוכחי",
+    "buttonRestaurantInfo": "מידע על מסעדה",
+    "buttonStartVisit": "התחל ביקור",
+    "buttonStartOrder": "להזמין",
+    "tables": "שולחן",
+    "reviews": "ביקורות",
+    "confirmationTitle": "האם אתה בטוח?",
+    "confirmationDescription": "עזיבת המסעדה הנוכחית תסגור את מושב הביקור הנוכחי.",
+    "cancel": "לְבַטֵל",
+    "confirm": "לְאַשֵׁר"
+  },
+  "profileScreen": {
+    "title": "החשבון שלי",
+    "personalInformation": "מידע אישי",
+    "support": "תמיכה",
+    "savedAddresses": "כתובות שמורות",
+    "termsConditions": "תנאים",
+    "settingsDev": "הגדרות",
+    "logOut": "להתנתק"
+  },
+  "personalInfoScreen": {
+    "title": "מידע אישי",
+    "changePhoto": "שנה תמונה",
+    "addPhoto": "הוסף תמונה",
+    "phoneNumber": "מספר טלפון",
+    "marketing": "אני רוצה לקבל מידע שיווקי",
+    "invalidName": "שם לא חוקי",
+    "invalidEmail": "אימייל שגוי",
+    "fullName": "שם פרטי ושם תאווה",
+    "email": "כתובת דואל",
+    "birthday": "יום הולדת"
+  },
+  "changePhoneScreen": {
+    "header": "שנה מספר טלפון",
+    "countryInput": "מדינה",
+    "phoneNumber": "מספר טלפון חדש",
+    "button": "לְהַמשִׁיך"
+  },
+  "confirmNewNumberScreen": {
+    "header": "אשר מספר חדש",
+    "codeLabel": "קוד אישור",
+    "checkSmsLabel": "בדוק את הודעות ה-SMS שלך.",
+    "codeDestinationLabel": "שלחנו קוד ב",
+    "noCodeLabel": "אתה לא מקבל שום קוד?",
+    "resendCode": "שלח קוד שוב",
+    "buttonLabel": "תאשר"
+  },
+  "productDetailsScreen": {
+    "supplements": "תוספי תזונה",
+    "addComment": "הוסף תגובה",
+    "addToOrder": "הוסף להזמנה",
+    "default": "בְּרִירַת מֶחדָל"
+  },
+  "ordersScreen": {
+    "total": "סך הכל:",
+    "created": "נוצר",
+    "inProgress": "בתהליך",
+    "waitPayment": "המתן לתשלום",
+    "allOrders": "כל ההזמנות",
+    "in_house": "לסעוד ב",
+    "delivery": "מְסִירָה",
+    "take_away": "להסיר",
+    "noOrdersTitle": "אין לך מידע על הזמנות",
+    "noOrdersInfo": "המידע יופיע כאן ברגע שתתחיל את הביקור הראשון שלך",
+    "findPlace": "מצא מקום לארוחת ערב"
+  },
+  "paymentMethodScreen": {
+    "pageTitle": "אמצעי תשלום",
+    "selectMethod": "בחר שיטת תשלום.",
+    "info": "התשלום יתפוס לאחר הארוחה והאישור.",
+    "cashInfo": "אנא המתן לחשבון התשלום. אל תעזוב את השולחן לפני התשלום.",
+    "cash": "כסף מזומן",
+    "addCard": "הוסף כרטיס"
+  },
+  "cardDetailsScreen": {
+    "pageTitle": "הזן פרטי כרטיס",
+    "cardDetails": "הזן את פרטי כרטיס התשלום שלך.",
+    "info": "אנחנו לא אוספים ושומרים את נתוני כרטיסי התשלום שלך. כל המידע יימחק לאחר תום הביקור.",
+    "cardNumber": "מספר כרטיס",
+    "expiryDate": "Exp. תַאֲרִיך",
+    "cvv": "CVV",
+    "cardOwner": "שם בעל הכרטיס"
+  },
+  "paymentItemsListScreen": {
+    "pageTitle": "שלם עבור הזמנה",
+    "info": "בחר את המשתמשים לשלם עבורם",
+    "myOrder": "ההזמנה שלי",
+    "total": "סך הכל:",
+    "selectPayment": "בחר תשלום"
+  },
+  "tipsScreen": {
+    "pageTitle": "קבע טיפים",
+    "info": "אתה יכול להוסיף טיפים למלצר שלך אם אהבת את השירות",
+    "add": "לְהוֹסִיף",
+    "addAnother": "הוסף עוד סכום",
+    "noThanks": "לא תודה",
+    "tipsSum": "סכום טיפים",
+    "tipsPercent": "אחוז טיפים",
+    "addTips": "הוסף טיפים"
+  },
+  "addressListScreen": {
+    "pageTitle": "כתובות שמורות",
+    "addAddress": "הוסף כתובת",
+    "noAddresses": "אין כתובות",
+    "noAddressesInfo": "נראה שעדיין לא הוספת כתובות"
+  },
+  "addressInfoScreen": {
+    "pageTitleNew": "הוסף כתובת",
+    "pageTitleEdit": "ערוך כתובת",
+    "addAddress": "הוסף כתובת",
+    "saveChanges": "שמור שינויים",
+    "city": "עִיר",
+    "country": "מדינה",
+    "addressLineFirst": "שורת כתובת 1",
+    "addressLineSecond": "שורת כתובת 2",
+    "zipCode": "מיקוד"
+  },
+  "deliveryDetailsScreen": {
+    "title": "פרטי משלוח",
+    "typeOfOrder": "סוג ההזמנה",
+    "delivery": "מְסִירָה",
+    "take_away": "להסיר",
+    "selectAddress": "בחר כתובת",
+    "selectRestaurant": "בחר מסעדה",
+    "restaurantInfo": "אנא בחר את המקום הקרוב יותר אליך",
+    "addAddress": "הוסף כתובת חדשה",
+    "selectTime": "בחר זמן",
+    "asap": "בהקדם האפשרי (אין חישוב זמין)",
+    "particular": "זמן מסויים",
+    "continue": "לְהַמשִׁיך"
+  },
+  "modals": {
+    "feedbackModal": {
+      "titleRank": "תודה שביקרת",
+      "titleMessage": "תודה לך על המשוב",
+      "infoRank": "בבקשה, דרג אותנו",
+      "infoMessage": "אפשר גם להשאיר תגובה",
+      "reviewPlacedMessage": "הביקורת שלך הוצבה!",
+      "buttonCancel": "לְבַטֵל",
+      "buttonSubmit": "לִשְׁלוֹחַ"
+    },
+    "scanModal": {
+      "newGustTitle": "אורח חדש",
+      "newGustInfo": "ערב ביחד. אתה רוצה לאכול ארוחת קבל את הבקשה אם רוצה להצטרף לשולחן.",
+      "buttonCancel": "לְבַטֵל",
+      "buttonAccept": "לְקַבֵּל",
+      "buttonTryAgain": "נסה שוב",
+      "buttonStart": "התחל ביקור",
+      "confirmationTitle": "האישור נכשל",
+      "confirmationInfo": "מזה האורח הראשון לא חוץ",
+      "confirmationInfoPart2": "ביקשת",
+      "loadingTitle": "מחכה לאישור",
+      "loadingInfo": "הראשון אנא המתן, האורח",
+      "loadingInfoPart2": "צריך לקבל את בקשתך"
+    },
+    "deleteAddressModal": {
+      "title": "מחק כתובת",
+      "description": "האם אתה בטוח שברצונך למחוק כתובת זו?",
+      "cancel": "לְבַטֵל",
+      "delete": "לִמְחוֹק"
+    },
+    "paymentModal": {
+      "waiterTitle": "המתן בבקשה",
+      "waiterDescription": "המלצר יביא את החשבון בקרוב...",
+      "pendingTitle": "התשלום בהמתנה",
+      "pendingDescription": "אנא המתן עד להשלמת התשלום",
+      "errorTitle": "שְׁגִיאָה",
+      "message.already_paid": "ההזמנה כבר שולמה.",
+      "errorDescription": "משהו השתבש. בבקשה נסה שוב.",
+      "processing": "התשלום בעיבוד...",
+      "proceedWith": "התשלום מעובד באמצעות",
+      "orderPlaced": "ההזמנה מתבצעת!"
+    }
+  }
+}
